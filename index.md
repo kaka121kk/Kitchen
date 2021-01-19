@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Polokitchen </title>
-</head>
-
-<body>
-The content of the document......
-</body>
-
-</html>
+Our website is suffering from a problem, we are trying to fix the problem. It will take about 3-5 working days. Don't worry, your orders are still being processed, you will receive your order 5-7 working days. 10-14 days at the latest. Looking forward to your sympathy
